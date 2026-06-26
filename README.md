@@ -4,7 +4,7 @@ Ferramenta da disciplina de Metodologia Científica que converte montantes finan
 ## Como funciona
 A calculadora cruza o valor inserido com o custo médio da cesta básica regional e a população das cidades, traduzindo cifras abstratas em unidades de subsistência real.
 
-![Captura de tela da Calculadora do Absurdo](Calculadora do Absurdo.png)
+![Captura de tela da Calculadora do Absurdo](CalculadoraDoAbsurdo.png)
 
 ## Tecnologias
 - HTML5
